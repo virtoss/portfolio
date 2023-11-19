@@ -60,8 +60,7 @@ body {
 }
 
 .apresentacao__imagem {
-    width: 100%;
-    height: auto;
+    width: auto;
     display: flex;
     object-fit: scale-down;
 }
