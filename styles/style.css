@@ -62,6 +62,7 @@ body {
 .apresentacao__imagem {
     width: 15%;
     display: flex;
+    object-fit: cover;
 }
 
 .destaque-titulo {
